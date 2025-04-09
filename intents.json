@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Mental Health Definition",
+    "trainingPhrases": [
+      {"parts": [{"text": "What is mental health?"}]},
+      {"parts": [{"text": "Define mental health"}]},
+      {"parts": [{"text": "Explain psychological well-being"}]},
+      {"parts": [{"text": "Meaning of emotional health"}]}
+    ],
+    "messages": [{
+      "text": {
+        "text": [
+          "Mental health encompasses emotional, psychological, and social well-being. It influences cognition, perception, and behavior, determining how we handle stress, relate to others, and make choices. The WHO defines it as a state of well-being where individuals realize their abilities, cope with normal stresses, work productively, and contribute to their community."
+        ]
+      }
+    }]
+  },
+  {
+    "name": "Depression Symptoms",
+    "trainingPhrases": [
+      {"parts": [{"text": "Signs I might be depressed"}]},
+      {"parts": [{"text": "Depression warning signs"}]},
+      {"parts": [{"text": "How to recognize depression"}]},
+      {"parts": [{"text": "Clinical depression symptoms"}]}
+    ],
+    "messages": [{
+      "text": {
+        "text": [
+          "According to the DSM-5, depression symptoms may include:\n\n• Persistent sad/anxious mood\n• Loss of interest in activities\n• Significant weight changes\n• Sleep disturbances\n• Psychomotor agitation/retardation\n• Fatigue\n• Feelings of worthlessness\n• Difficulty concentrating\n• Recurrent thoughts of death\n\nExperiencing 5+ symptoms for 2+ weeks may indicate Major Depressive Disorder. However, only a licensed professional can diagnose."
+        ]
+      }
+    }]
+  },
+  {
+    "name": "Anxiety Management",
+    "trainingPhrases": [
+      {"parts": [{"text": "How to calm anxiety"}]},
+      {"parts": [{"text": "Natural ways to reduce anxiety"}]},
+      {"parts": [{"text": "Grounding techniques for panic attacks"}]},
+      {"parts": [{"text": "Immediate anxiety relief"}]}
+    ],
+    "messages": [{
+      "text": {
+        "text": [
+          "Evidence-based anxiety management techniques:\n\n1. **4-7-8 Breathing**: Inhale 4s, hold 7s, exhale 8s\n2. **5-4-3-2-1 Grounding**: Name 5 things you see, 4 you feel, 3 you hear, 2 you smell, 1 you taste\n3. **Progressive Muscle Relaxation**: Tense/release muscle groups\n4. **Cognitive Defusion**: Observe thoughts like passing clouds\n5. **Temperature Change**: Splash cold water or hold ice\n\nFor chronic anxiety, CBT and medication may be recommended."
+        ]
+      }
+    }]
+  },
+  {
+    "name": "Crisis Intervention",
+    "priority": "HIGH",
+    "trainingPhrases": [
+      {"parts": [{"text": "I want to end my life"}]},
+      {"parts": [{"text": "I'm thinking about suicide"}]},
+      {"parts": [{"text": "I have a plan to hurt myself"}]},
+      {"parts": [{"text": "Nobody would care if I died"}]},
+      {"parts": [{"text": "I can't take this anymore"}]},
+      {"parts": [{"text": "Emergency mental health help in Kenya"}]},
+      {"parts": [{"text": "I need to talk to someone now"}]},
+      {"parts": [{"text": "I'm in immediate danger"}]}
+    ],
+    "messages": [{
+      "text": {
+        "text": [
+          "🚨 **You are not alone.** Please contact these **Kenya-specific resources immediately**:\n\n▸ **Befrienders Kenya Suicide Helpline**: +254 722 178 177 (24/7)\n▸ **Niskize Psychological Helpline**: 0900 620 800 (24/7)\n▸ **Kenya Red Cross Mental Health Support**: +254 202 395 000\n▸ **Emergency Police Line**: 999 or 112\n\n🌍 **International Alternatives**:\n▸ **Telegram/WhatsApp Support**: +254 700 000 000\n▸ **The Samaritans (Global)**: +44 800 000 000\n\nYour life matters deeply. These trained counselors can help you through this moment."
+        ]
+      }
+    }]
+  },
+  {
+    "name": "Therapy Options",
+    "trainingPhrases": [
+      {"parts": [{"text": "Types of therapy available"}]},
+      {"parts": [{"text": "What's CBT vs DBT?"}]},
+      {"parts": [{"text": "Best therapy for anxiety"}]},
+      {"parts": [{"text": "How to choose a therapist"}]}
+    ],
+    "messages": [{
+      "text": {
+        "text": [
+          "Common evidence-based therapies:\n\n1. **CBT (Cognitive Behavioral Therapy)**: Identifies thought/behavior patterns\n2. **DBT (Dialectical Behavior Therapy)**: Focuses on emotional regulation\n3. **Psychodynamic Therapy**: Explores unconscious patterns\n4. **ACT (Acceptance Commitment Therapy)**: Embraces mindfulness\n5. **EMDR**: For trauma processing\n\nConsider:\n• Your specific concerns\n• Therapist qualifications\n• Personal comfort level\n• Insurance coverage\n\nWe can help you find local providers if needed."
+        ]
+      }
+    }]
+  },
+  {
+    "name": "Self-Care Strategies",
+    "trainingPhrases": [
+      {"parts": [{"text": "Daily mental health practices"}]},
+      {"parts": [{"text": "Self-care ideas"}]},
+      {"parts": [{"text": "How to practice emotional hygiene"}]},
+      {"parts": [{"text": "Wellness routine suggestions"}]}
+    ],
+    "messages": [{
+      "text": {
+        "text": [
+          "Comprehensive self-care framework:\n\n**Physical**:\n• 7-9 hours sleep\n• Balanced nutrition\n• 30-min movement daily\n\n**Emotional**:\n• Journaling\n• Setting boundaries\n• Creative expression\n\n**Social**:\n• Meaningful connections\n• Joining support groups\n\n**Spiritual**:\n• Meditation\n• Nature immersion\n• Value clarification\n\nStart with small, sustainable changes tailored to your needs."
+        ]
+      }
+    }]
+  },
+  {
+    "name": "Sleep Improvement",
+    "trainingPhrases": [
+      {"parts": [{"text": "Can't sleep due to anxiety"}]},
+      {"parts": [{"text": "Sleep hygiene tips"}]},
+      {"parts": [{"text": "How to fall asleep faster"}]},
+      {"parts": [{"text": "Insomnia solutions"}]}
+    ],
+    "messages": [{
+      "text": {
+        "text": [
+          "Sleep improvement protocol:\n\n1. **Environment**:\n   - Cool (65°F/18°C)\n   - Pitch dark\n   - White noise if needed\n\n2. **Routine**:\n   - Consistent bedtime/wake-up\n   - 1-hour pre-sleep wind down\n   - No screens 30-min before\n\n3. **Cognitive**:\n   - Write down worries earlier\n   - Try 4-7-8 breathing\n   - If not asleep in 20min, get up\n\nChronic insomnia may require professional evaluation."
+        ]
+      }
+    }]
+  },
+  {
+    "name": "PTSD Support",
+    "trainingPhrases": [
+      {"parts": [{"text": "Symptoms of PTSD"}]},
+      {"parts": [{"text": "How to help someone with trauma"}]},
+      {"parts": [{"text": "Best treatments for PTSD"}]},
+      {"parts": [{"text": "Flashback management"}]}
+    ],
+    "messages": [{
+      "text": {
+        "text": [
+          "PTSD (Post-Traumatic Stress Disorder) information:\n\n**Symptoms**:\n- Intrusive memories\n- Avoidance behaviors\n- Negative cognition changes\n- Hyperarousal\n\n**Evidence-Based Treatments**:\n1. Trauma-focused CBT\n2. EMDR therapy\n3. Prolonged Exposure\n4. Medication (SSRIs)\n\n**Coping During Flashbacks**:\n• Grounding techniques\n• Remind yourself \"This is a memory\"\n• Sensory anchoring (scent, texture)\n\nAlways consult a trauma specialist for personalized care."
+        ]
+      }
+    }]
+  },
+  {
+    "name": "Mindfulness Techniques",
+    "trainingPhrases": [
+      {"parts": [{"text": "Beginner mindfulness exercises"}]},
+      {"parts": [{"text": "How to meditate"}]},
+      {"parts": [{"text": "Quick mindfulness practices"}]},
+      {"parts": [{"text": "Benefits of meditation"}]}
+    ],
+    "messages": [{
+      "text": {
+        "text": [
+          "Mindfulness practices:\n\n**Formal**:\n• **Body Scan**: Notice sensations head-to-toe\n• **Breath Awareness**: Focus on inhale/exhale\n• **Loving-Kindness**: Send goodwill to self/others\n\n**Informal**:\n• **Mindful Eating**: Savor each bite\n• **Walking Meditation**: Feel each step\n• **STOP Technique**: Stop, Take breath, Observe, Proceed\n\nStart with 3-5 minutes daily. Apps like Headspace or Insight Timer can guide beginners."
+        ]
+      }
+    }]
+  },
+  {
+    "name": "Medication Questions",
+    "trainingPhrases": [
+      {"parts": [{"text": "Should I take antidepressants?"}]},
+      {"parts": [{"text": "Side effects of SSRIs"}]},
+      {"parts": [{"text": "How long until meds work"}]},
+      {"parts": [{"text": "Natural alternatives to medication"}]}
+    ],
+    "messages": [{
+      "text": {
+        "text": [
+          "Medication decisions should always be made with a licensed psychiatrist who can:\n\n1. Evaluate your specific symptoms\n2. Review medical history\n3. Monitor side effects\n4. Adjust dosages\n\nCommon considerations:\n• SSRIs typically take 4-6 weeks for full effect\n• Side effects often diminish over time\n• Never stop medication abruptly\n\nWould you like help finding a psychiatrist?"
+        ]
+      }
+    }]
+  }
+]
