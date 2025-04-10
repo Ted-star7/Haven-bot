@@ -163,5 +163,184 @@
         ]
       }
     }]
+  },
+
+  
+  {
+    "name": "User Introduction",
+    "trainingPhrases": [
+      { "parts": [{ "text": "Hi, my name is John" }] },
+      { "parts": [{ "text": "I am Jane" }] },
+      { "parts": [{ "text": "Hello, I go by Mark" }] },
+      { "parts": [{ "text": "I’m Sarah" }] }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Hi, [User Name]! It's great to meet you. How can I assist you today?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Motivational Quotes",
+    "trainingPhrases": [
+      { "parts": [{ "text": "Give me a motivational quote" }] },
+      { "parts": [{ "text": "I need some inspiration" }] },
+      { "parts": [{ "text": "Can you motivate me?" }] },
+      { "parts": [{ "text": "Tell me something inspiring" }] }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "\"The only way to do great work is to love what you do. – Steve Jobs\"",
+            "\"Success is not final, failure is not fatal: It is the courage to continue that counts. – Winston Churchill\"",
+            "\"Believe you can and you're halfway there. – Theodore Roosevelt\""
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Mood Tracking Prompts",
+    "trainingPhrases": [
+      { "parts": [{ "text": "How do I track my mood?" }] },
+      { "parts": [{ "text": "What is a good mood tracking method?" }] },
+      { "parts": [{ "text": "Can you help me track my feelings?" }] },
+      { "parts": [{ "text": "Give me a mood tracker" }] }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Here's a simple way to track your mood:\n\n1. Rate your mood on a scale of 1-10.\n2. Write a brief description of your feelings.\n3. Identify what influenced your mood (events, people, thoughts, etc.).\n4. Reflect on any patterns over time."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Gratitude Journaling Prompt",
+    "trainingPhrases": [
+      { "parts": [{ "text": "What should I write in my gratitude journal?" }] },
+      { "parts": [{ "text": "Give me a gratitude journaling prompt" }] },
+      { "parts": [{ "text": "I want to practice gratitude journaling" }] },
+      { "parts": [{ "text": "Can you give me a prompt for gratitude?" }] }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Start by writing down three things you're grateful for today. Try to be specific and think about moments or people who brought you joy or peace."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Mood Emoji Tracker",
+    "trainingPhrases": [
+      { "parts": [{ "text": "Track my mood with emojis" }] },
+      { "parts": [{ "text": "Send a mood emoji" }] },
+      { "parts": [{ "text": "Can I use emojis to track my feelings?" }] }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Here are some mood emojis to track your emotions today:\n😊 Happy\n😔 Sad\n😤 Angry\n😌 Calm\n🤯 Overwhelmed\n😢 Sad"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Stress Management Tips",
+    "trainingPhrases": [
+      { "parts": [{ "text": "How do I manage stress?" }] },
+      { "parts": [{ "text": "Give me stress relief tips" }] },
+      { "parts": [{ "text": "What are some effective stress management strategies?" }] }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Here are some ways to manage stress:\n\n1. Practice deep breathing or meditation\n2. Exercise regularly\n3. Break tasks into smaller, manageable pieces\n4. Take breaks and avoid overworking\n5. Talk to someone you trust about your stress"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Daily Affirmations",
+    "trainingPhrases": [
+      { "parts": [{ "text": "Give me an affirmation for today" }] },
+      { "parts": [{ "text": "I need a positive affirmation" }] },
+      { "parts": [{ "text": "Can you give me an uplifting affirmation?" }] }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Here's your affirmation for today: \"I am worthy of love, success, and happiness. I trust the process and have the power to create positive change in my life.\""
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Mindfulness Reminders",
+    "trainingPhrases": [
+      { "parts": [{ "text": "Remind me to be mindful" }] },
+      { "parts": [{ "text": "Give me a mindfulness tip" }] },
+      { "parts": [{ "text": "What should I focus on right now?" }] }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Take a moment to be present. Focus on your breath, the sensations in your body, or the sounds around you. Simply observe without judgment."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Gratitude Expressions",
+    "trainingPhrases": [
+      { "parts": [{ "text": "I want to express my gratitude" }] },
+      { "parts": [{ "text": "Can I send a gratitude message?" }] },
+      { "parts": [{ "text": "Help me send a message of thanks" }] }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Would you like to send a message of gratitude to someone? Let them know how thankful you are for their support or kindness!"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "User Feedback",
+    "trainingPhrases": [
+      { "parts": [{ "text": "How am I doing?" }] },
+      { "parts": [{ "text": "How is my mental health?" }] },
+      { "parts": [{ "text": "Can you give me feedback on my mood?" }] }
+    ],
+    "messages": [
+      {
+        "text": {
+          "text": [
+            "Your mental health is important. If you're unsure how you're feeling, take a moment to reflect on recent experiences. Would you like some tips on managing your mental state?"
+          ]
+        }
+      }
+    ]
   }
+
 ]
